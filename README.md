@@ -1,3 +1,3 @@
-#Que hace
+# Que hace
 Este proyecto es de pryueba
-#Como instalar
+# Como instalar
